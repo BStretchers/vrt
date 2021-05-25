@@ -1,0 +1,117 @@
+html{
+    background-color: hotpink;
+}
+
+.white-keys{
+    display: flex;
+}
+
+.white-keys kbd {
+    height: 120px;
+    width: 40px;
+    background-color: white;
+    border: 1px solid black;
+    padding-top: 90px;
+    box-sizing: border-box;
+}
+
+.black-keys{
+    display: flex;
+    position: absolute;
+}
+
+.black-keys kbd{
+    height: 80px;
+    width: 22px;
+    background-color: black;
+    color: white;
+    padding-top: 45px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+#W{
+    margin-left: 29px;
+}
+
+#E{
+    margin-left: 18px;
+}
+
+#T{
+    margin-left: 58px;
+}
+
+#Y{
+    margin-left: 18px;
+}
+
+#U{
+    margin-left: 18px;
+}
+
+.container{
+    display: flex;
+    margin: 10% auto;
+    height: max-content;
+    width: max-content;
+    text-align: center;
+    align-items: flex-start;
+}
+
+kbd:hover{
+    background-color: aqua;
+}
+/*body {
+    background-color: green;
+}
+
+.container {
+    min-width: 600px;
+    height: 600px;
+    margin: 200px auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+kbd {
+    display: inline-block;
+    border: 2px solid gray;
+    text-align: center;
+}
+
+.white-keys kbd {
+    width: 50px;
+    height: 200px;
+    background-color: white;
+    padding-top: 150px;
+    box-sizing: border-box;
+}
+
+.black-keys {
+    width: 400px;
+    position: absolute;
+    display: flex;
+}
+
+.black-keys kbd {
+    color: white;
+    width: 30px;
+    height: 100px;
+    background-color: black;
+    padding-top: 70px;
+    box-sizing: border-box;
+}
+
+.black-keys kbd:first-child {
+    margin-left: 50px;
+}
+
+.black-keys kbd:nth-child(3) {
+    margin-left: 80px;
+}
+
+.black-keys kbd:nth-child(2), .black-keys kbd:nth-child(4), .black-keys kbd:nth-child(5) {
+    margin-left: 23px;
+}*/
