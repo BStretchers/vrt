@@ -61,57 +61,8 @@ html{
 
 kbd:hover{
     background-color: aqua;
+<<<<<<< HEAD
 }
-/*body {
-    background-color: green;
+=======
 }
-
-.container {
-    min-width: 600px;
-    height: 600px;
-    margin: 200px auto;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-}
-
-kbd {
-    display: inline-block;
-    border: 2px solid gray;
-    text-align: center;
-}
-
-.white-keys kbd {
-    width: 50px;
-    height: 200px;
-    background-color: white;
-    padding-top: 150px;
-    box-sizing: border-box;
-}
-
-.black-keys {
-    width: 400px;
-    position: absolute;
-    display: flex;
-}
-
-.black-keys kbd {
-    color: white;
-    width: 30px;
-    height: 100px;
-    background-color: black;
-    padding-top: 70px;
-    box-sizing: border-box;
-}
-
-.black-keys kbd:first-child {
-    margin-left: 50px;
-}
-
-.black-keys kbd:nth-child(3) {
-    margin-left: 80px;
-}
-
-.black-keys kbd:nth-child(2), .black-keys kbd:nth-child(4), .black-keys kbd:nth-child(5) {
-    margin-left: 23px;
-}*/
+>>>>>>> 536e0b2264bbf37febf33b5e903a1b3b9ea7e442
